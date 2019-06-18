@@ -5,6 +5,8 @@ Welcome to Cedric's Kitchen
 Maggi
 Pasta
 Chicken
+Beans
+Pizza
 
 
 
